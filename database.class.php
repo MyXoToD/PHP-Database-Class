@@ -25,6 +25,7 @@ class database {
   
   public function __destruct() {
     if ($this->connected) {
+      $this->connected = false;
       mysql_close($this->connection);
     }
   }
