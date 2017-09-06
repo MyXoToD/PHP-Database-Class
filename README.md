@@ -1,4 +1,8 @@
-# PHP Database Class
+# OUTDATED!!! PHP Database Class
+
+### Outdated
+
+This class needs serious updates to support PHP7+. Will to in the future :)
 
 ### What's that?
 
