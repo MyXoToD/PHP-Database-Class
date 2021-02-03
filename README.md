@@ -56,5 +56,9 @@ To fetch your result into an array:
 To show the count of all executed queries:
 
     $db->getQueryCount();
+    
+### Documentation
+
+Lorem ipsum
 
 ### Have fun to use it :)
